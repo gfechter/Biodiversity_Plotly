@@ -1,0 +1,9 @@
+body{
+    font-family: Georgia;
+}
+.jumbotron{
+    background-image: url("../images/biodiversity.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color:whitesmoke
+}
